@@ -1,0 +1,4 @@
+Name: Michael D.
+Age: 24
+Pets count: 2
+Dream salary: 10000%
