@@ -1,0 +1,6 @@
+Favorite:
+    Film: Harry Potter
+    Series: Billions
+    Food: Potato
+    Part of year: Spring
+Country to travel: Italy
