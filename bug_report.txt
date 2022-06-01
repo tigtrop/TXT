@@ -1,1 +1,22 @@
+Summary:
+  Win. En. The loading screen is not displayed in the game after starting the new game.
 
+Description:
+  The loading screen is not displayed in the game after starting the new game.
+
+Steps to reproduce:
+Win 10 x64
+4.27.2.0
+
+1. Run the “KAOS Surival” game.
+2. Start the new single-player game.
+3. Pay attention to the screen.
+
+Actual result:
+  The loading screen is not displayed in the game after starting the new game.
+
+Expected result:
+  The loading screen is shown in the game after starting the new game.
+  
+ Attachments:
+  screen.img
